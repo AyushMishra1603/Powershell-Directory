@@ -1,0 +1,24 @@
+Function Gameplaying
+{
+$JoyStick1_LR = "J1LR"
+$JoyStick1_UD = "J1UD"
+$JoyStick2_LR = "J2LR"
+$JoyStick2_UD = "J2UD"
+$Left_Thumb   = "LT"
+$Right_Thumb  = "RT"
+$UP   = 1.6
+$Down = 0.02
+$Right= 1.6
+$Left = 0.02
+
+AnalogInitialize "NI_Dev1" 
+SetDefaultValue
+ConsoleOne_CtrllerEnter
+#PressButton $JoyStick1_LR 1.6 $false 100
+#PressButton $JoyStick1_LR 0.02 $false 100
+#PressButton $JoyStick1_UD 1.6 $false 100
+#PressButton $JoyStick1_UD 0.02 $false 100
+#PressButton $Right_Thumb 0.02 $false 100
+#PressButton $Left_Thumb 0.02 $false 100
+
+}
