@@ -31,7 +31,7 @@ Function BoomBoomRocket ($gamePlayTime, $launchUsing){
 
             #Launch Using Search
             if($launchUsing -eq "Search"){
-                $gameSelected = Launch_GameUsingSearch -game_name "Boom B"                
+                $gameSelected = Launch_GameUsingSearch -game_name "Boom"                
                 }
 
             #temporary Workaround for testing
