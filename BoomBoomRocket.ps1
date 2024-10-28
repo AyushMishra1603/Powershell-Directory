@@ -3,7 +3,8 @@
 Function BoomBoomRocket ($gamePlayTime, $launchUsing){
 
   $game_title = "BoomBoomRocket"
-  $game_title_hub = "BoomBoomRocket"
+  
+  $game_title_hub = "Boom Boom Rocket"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
