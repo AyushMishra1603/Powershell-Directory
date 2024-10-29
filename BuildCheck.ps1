@@ -10,7 +10,7 @@ Quit_LaunchedGame_Relay -console $Global:Once
 
 ConsoleOne_CtrllerXbox
 Set_FixedDelay -DelayTime $Global:Twice
-ConsoleOne_CtrllerRht
+ConsoleOne_CtrllerLft
 ConsoleOne_CtrllerRht
 ConsoleOne_CtrllerRht
 ConsoleOne_CtrllerRht
