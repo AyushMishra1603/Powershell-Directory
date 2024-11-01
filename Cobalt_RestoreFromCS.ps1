@@ -1,7 +1,7 @@
 ﻿Function Cobalt_RestoreFromCS($launchUsing){
 
   $game_title = "Cobalt_RestoreFromCS"
-  $game_title_hub= "Cobalt_RestoreFromCS"
+  $game_title_hub= "Cobalt RestoreFromCS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
