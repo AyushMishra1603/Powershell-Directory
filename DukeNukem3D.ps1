@@ -3,7 +3,7 @@
 Function DukeNukem3D($gamePlayTime, $launchUsing){
 
   $game_title = "DukeNukem3D"
-  $game_title_hub = "DukeNukem3D"
+  $game_title_hub = "Duke Nukem 3D"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
