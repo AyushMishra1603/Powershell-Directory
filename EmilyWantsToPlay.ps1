@@ -3,7 +3,7 @@
 Function EmilyWantsToPlay($gamePlayTime, $launchUsing){
 
   $game_title = "EmilyWantsToPlay"
-  $game_title_hub = "EmilyWantsToPlay"
+  $game_title_hub = "Emily Wants To Play"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
