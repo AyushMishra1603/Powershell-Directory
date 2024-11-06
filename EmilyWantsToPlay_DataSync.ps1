@@ -2,7 +2,7 @@
 Function EmilyWantsToPlay_DataSync{
 
   $game_title = "EmilyWantsToPlay_DataSync"
-  $game_title_hub = "EmilyWantsToPlay_DataSync"
+  $game_title_hub = "Emily Wants To Play DataSync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
