@@ -2,7 +2,7 @@
 Function DungeonAndGravestone_DataSync{
 
   $game_title = "DungeonAndGravestone_DataSync"
-  $game_title_hub = "DungeonAndGravestone_DataSync"
+  $game_title_hub = "Dungeon And Gravestone DataSync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
