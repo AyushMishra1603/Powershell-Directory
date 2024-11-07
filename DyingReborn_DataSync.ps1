@@ -2,7 +2,7 @@
 Function DyingReborn_DataSync{
 
   $game_title = "DyingReborn_DataSync"
-  $game_title_hub = "DyingReborn_DataSync"
+  $game_title_hub = "DyingReborn DataSync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
