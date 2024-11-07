@@ -3,7 +3,7 @@
 Function DyingReborn($gamePlayTime, $launchUsing){
 
   $game_title = "DyingReborn"
-  $game_title_hub = "DyingReborn"
+  $game_title_hub = "Dying Reborn"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
