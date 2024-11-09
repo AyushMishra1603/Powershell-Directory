@@ -2,7 +2,7 @@
 Function EventideSlavicFable_DataSync{
 
   $game_title = "EventideSlavicFable_DataSync"
-  $game_title_hub = "EventideSlavicFable_DataSync"
+  $game_title_hub = "Eventide Slavic Fable DataSync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
