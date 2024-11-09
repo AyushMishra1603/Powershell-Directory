@@ -3,7 +3,7 @@
 Function EventideSlavicFable($gamePlayTime, $launchUsing){
 
   $game_title = "EventideSlavicFable"
-  $game_title_hub = "EventideSlavicFable"
+  $game_title_hub = "Eventide Slavic Fable"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
