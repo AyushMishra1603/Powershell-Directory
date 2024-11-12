@@ -1,7 +1,7 @@
 ﻿Function F12015_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "F12015_RestoreFromCS"
-  $game_title_hub= "F12015_RestoreFromCS"
+  $game_title_hub= "F12015 Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
