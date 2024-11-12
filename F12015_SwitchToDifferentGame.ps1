@@ -1,7 +1,7 @@
 ﻿Function F12015_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "F12015_SwitchToDifferentGame"
-  $game_title_hub= "F12015_SwitchToDifferentGame"
+  $game_title_hub= "F12015 Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
