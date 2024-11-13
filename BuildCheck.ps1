@@ -1,7 +1,7 @@
 Function BuildCheck()
 {
 #$isHomeScreen = VerifyHomeScreen 
-$Global:ElapsedTime = 120 
+$Global:ElapsedTime = 90 
   $case_cnt =1
 $loop_status = $true
 
