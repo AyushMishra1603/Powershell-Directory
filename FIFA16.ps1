@@ -3,7 +3,7 @@
 Function FIFA16($gamePlayTime, $launchUsing){
 
   $game_title = "FIFA16"
-  $game_title_hub = "FIFA16"
+  $game_title_hub = "FIFA 16"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
