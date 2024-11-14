@@ -2,7 +2,7 @@
 Function FIFA16_DataSync{
 
   $game_title = "FIFA16_DataSync"
-  $game_title_hub = "FIFA16_DataSync"
+  $game_title_hub = "FIFA 16 Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
