@@ -3,7 +3,7 @@
 Function FarmForYourLife($gamePlayTime, $launchUsing){
 
   $game_title = "FarmForYourLife"
-  $game_title_hub = "FarmForYourLife"
+  $game_title_hub = "Farm For Your Life"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
