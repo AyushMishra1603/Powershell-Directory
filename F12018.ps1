@@ -3,7 +3,7 @@
 Function F12018($gamePlayTime, $launchUsing){
 
   $game_title = "F12018"
-  $game_title_hub = "F12018"
+  $game_title_hub = "F1 2018"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
