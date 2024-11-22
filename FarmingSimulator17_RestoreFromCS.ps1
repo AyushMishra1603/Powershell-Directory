@@ -1,7 +1,7 @@
 ﻿Function FarmingSimulator17_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "FarmingSimulator17_RestoreFromCS"
-  $game_title_hub= "FarmingSimulator17_RestoreFromCS"
+  $game_title_hub= "Farming Simulator 17 Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
