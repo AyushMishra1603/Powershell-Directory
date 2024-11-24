@@ -2,7 +2,7 @@
 Function FunTownMahjong_DataSync{
 
   $game_title = "FunTownMahjong_DataSync"
-  $game_title_hub = "FunTownMahjong_DataSync"
+  $game_title_hub = "Fun Town Mahjong Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
