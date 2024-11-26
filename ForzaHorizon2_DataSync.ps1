@@ -2,7 +2,7 @@
 Function ForzaHorizon2_DataSync{
 
   $game_title = "ForzaHorizon2_DataSync"
-  $game_title_hub = "ForzaHorizon2_DataSync"
+  $game_title_hub = "Forza Horizon 2 Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
