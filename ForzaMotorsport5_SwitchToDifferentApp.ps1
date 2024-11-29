@@ -1,7 +1,7 @@
 ﻿Function ForzaMotorsport5_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "ForzaMotorsport5_SwitchToDifferentApp"
-  $game_title_hub= "ForzaMotorsport5_SwitchToDifferentApp"
+  $game_title_hub= "Forza Motorsport 5 Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
