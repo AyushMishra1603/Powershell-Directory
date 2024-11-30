@@ -1,7 +1,7 @@
 ﻿Function FarmingSimulator17_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "FarmingSimulator17_SwitchToDifferentApp"
-  $game_title_hub= "FarmingSimulator17_SwitchToDifferentApp"
+  $game_title_hub= "Farming Simulator 17 Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
