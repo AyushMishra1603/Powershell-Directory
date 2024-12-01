@@ -2,7 +2,7 @@
 Function DynastyWarriors8Empires_DataSync{
 
   $game_title = "DynastyWarriors8Empires_DataSync"
-  $game_title_hub = "DynastyWarriors8Empires_DataSync"
+  $game_title_hub = "Dynasty Warriors 8 Empires Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
