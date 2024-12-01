@@ -3,7 +3,7 @@
 Function GPrimeIntoTheRain($gamePlayTime, $launchUsing){
 
   $game_title = "GPrimeIntoTheRain"
-  $game_title_hub = "GPrimeIntoTheRain"
+  $game_title_hub = "G Prime In to The Rain"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
