@@ -1,7 +1,7 @@
 ﻿Function EventideSlavicFable_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "EventideSlavicFable_RestoreFromCS"
-  $game_title_hub= "EventideSlavicFable_RestoreFromCS"
+  $game_title_hub= "Eventide Slavic Fable Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
