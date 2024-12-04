@@ -1,7 +1,7 @@
 ﻿Function GPrimeIntoTheRain_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "GPrimeIntoTheRain_SwitchToDifferentGame"
-  $game_title_hub= "GPrimeIntoTheRain_SwitchToDifferentGame"
+  $game_title_hub= "G Prime Into The Rain Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
