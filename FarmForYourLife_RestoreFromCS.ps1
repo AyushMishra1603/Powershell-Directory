@@ -1,7 +1,7 @@
 ﻿Function FarmForYourLife_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "FarmForYourLife_RestoreFromCS"
-  $game_title_hub= "FarmForYourLife_RestoreFromCS"
+  $game_title_hub= "Farm For Your Life Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
