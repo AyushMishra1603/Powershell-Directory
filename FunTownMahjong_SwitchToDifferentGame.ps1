@@ -1,7 +1,7 @@
 ﻿Function FunTownMahjong_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "FunTownMahjong_SwitchToDifferentGame"
-  $game_title_hub= "FunTownMahjong_SwitchToDifferentGame"
+  $game_title_hub= "Fun Town Mahjong Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
