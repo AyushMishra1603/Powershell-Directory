@@ -1,7 +1,7 @@
 ﻿Function GenesisAlphaOne_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "GenesisAlphaOne_RestoreFromCS"
-  $game_title_hub= "GenesisAlphaOne_RestoreFromCS"
+  $game_title_hub= "Genesis Alpha One Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
