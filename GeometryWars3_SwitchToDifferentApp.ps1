@@ -1,7 +1,7 @@
 ﻿Function GeometryWars3_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "GeometryWars3_SwitchToDifferentApp"
-  $game_title_hub= "GeometryWars3_SwitchToDifferentApp"
+  $game_title_hub= "Geometry Wars 3 Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
