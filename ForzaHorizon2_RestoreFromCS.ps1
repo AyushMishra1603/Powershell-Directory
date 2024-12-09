@@ -1,7 +1,7 @@
 ﻿Function ForzaHorizon2_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "ForzaHorizon2_RestoreFromCS"
-  $game_title_hub= "ForzaHorizon2_RestoreFromCS"
+  $game_title_hub= "Forza Horizon 2 Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
