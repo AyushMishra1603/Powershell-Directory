@@ -1,7 +1,7 @@
 ﻿Function GenesisAlphaOne_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "GenesisAlphaOne_SwitchToDifferentGame"
-  $game_title_hub= "GenesisAlphaOne_SwitchToDifferentGame"
+  $game_title_hub= "Genesis Alpha One Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
