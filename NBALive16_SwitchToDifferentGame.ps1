@@ -1,7 +1,7 @@
 ﻿Function NBALive16_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "NBALive16_SwitchToDifferentGame"
-  $game_title_hub= "NBALive16_SwitchToDifferentGame"
+  $game_title_hub= "NBA Live 16 Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
