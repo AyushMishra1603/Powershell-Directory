@@ -1,7 +1,7 @@
 ﻿Function NBALive16_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "NBALive16_SwitchToDifferentApp"
-  $game_title_hub= "NBALive16_SwitchToDifferentApp"
+  $game_title_hub= "NBA Live 16 Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
