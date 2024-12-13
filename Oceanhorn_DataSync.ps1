@@ -7,7 +7,7 @@ First screen mode on first time run
 Function Oceanhorn_DataSync{
 
   $game_title = "Oceanhorn_DataSync"
-  $game_title_hub = "Oceanhorn_DataSync"
+  $game_title_hub = "Oceanhorn Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
