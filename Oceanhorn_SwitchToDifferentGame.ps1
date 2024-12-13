@@ -1,7 +1,7 @@
 ﻿Function Oceanhorn_SwitchToDifferentGame($launchUsing){
 
   $game_title = "Oceanhorn_SwitchToDifferentGame"
-  $game_title_hub= "Oceanhorn_SwitchToDifferentGame"
+  $game_title_hub= "Ocean horn Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
