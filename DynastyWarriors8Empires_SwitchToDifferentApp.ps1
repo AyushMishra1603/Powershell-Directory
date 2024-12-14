@@ -1,7 +1,7 @@
 ﻿Function DynastyWarriors8Empires_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "DynastyWarriors8Empires_SwitchToDifferentApp"
-  $game_title_hub= "Dynasty Warriors 8 Empires Switch To Different App"
+  $game_title_hub= "DynastyWarriors8Empires_SwitchToDifferentApp"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
