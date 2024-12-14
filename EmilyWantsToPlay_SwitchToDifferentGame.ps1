@@ -1,7 +1,7 @@
 ﻿Function EmilyWantsToPlay_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "EmilyWantsToPlay_SwitchToDifferentGame"
-  $game_title_hub= "EmilyWantsToPlay_SwitchToDifferentGame"
+  $game_title_hub= "Emily Wants To Play Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
