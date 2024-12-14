@@ -1,7 +1,7 @@
 ﻿Function EventideSlavicFable_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "EventideSlavicFable_SwitchToDifferentGame"
-  $game_title_hub= "EventideSlavicFable_SwitchToDifferentGame"
+  $game_title_hub= "Eventide Slavic Fable Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
