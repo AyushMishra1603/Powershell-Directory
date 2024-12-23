@@ -2,7 +2,7 @@
 Function DukeNukem3D_DataSync{
 
   $game_title = "DukeNukem3D_DataSync"
-  $game_title_hub = "DukeNukem3D_DataSync"
+  $game_title_hub = "Duke Nukem 3D Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
