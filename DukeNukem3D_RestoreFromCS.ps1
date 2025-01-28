@@ -1,7 +1,7 @@
 ﻿Function DukeNukem3D_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "DukeNukem3D_RestoreFromCS"
-  $game_title_hub= "Duke Nukem 3D Restore From CS"
+  $game_title_hub= "DukeNukem3D_RestoreFromCS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
