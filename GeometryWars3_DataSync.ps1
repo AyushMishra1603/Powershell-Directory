@@ -2,7 +2,7 @@
 Function GeometryWars3_DataSync{
 
   $game_title = "GeometryWars3_DataSync"
-  $game_title_hub = "GeometryWars3_DataSync"
+  $game_title_hub = "Geometry Wars 3 Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
