@@ -1,4 +1,4 @@
-﻿
+
 Function DukeNukem3D_DataSync{
 
   $game_title = "DukeNukem3D_DataSync"
