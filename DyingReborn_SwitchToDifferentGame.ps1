@@ -1,7 +1,7 @@
 ﻿Function DyingReborn_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "DyingReborn_SwitchToDifferentGame"
-  $game_title_hub= "DyingReborn_SwitchToDifferentGame"
+  $game_title_hub= "Dying Reborn Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
