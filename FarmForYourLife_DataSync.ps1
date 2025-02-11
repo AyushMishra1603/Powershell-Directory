@@ -2,7 +2,7 @@
 Function FarmForYourLife_DataSync{
 
   $game_title = "FarmForYourLife_DataSync"
-  $game_title_hub = "FarmForYourLife_DataSync"
+  $game_title_hub = "Farm For Your Life DataSync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
