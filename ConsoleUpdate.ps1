@@ -5,7 +5,7 @@
 
 Function ConsoleUpdatetoDevKit($report_ID){
 
-  $action_title = "Xbox Updates"
+  $action_title = "XboxUpdates"
   $tc_status = $true
   $loop_status = $true
   $case_cnt = 0
