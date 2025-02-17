@@ -3,7 +3,7 @@
 Function DungeonAndGravestone($gamePlayTime, $launchUsing){
 
   $game_title = "DungeonAndGravestone"
-  $game_title_hub = "Dungeon And Gravestone"
+  $game_title_hub = "DungeonAndGravestone"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
