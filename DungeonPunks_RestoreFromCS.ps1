@@ -1,7 +1,7 @@
 ﻿Function DungeonPunks_RestoreFromCS($launchUsing, $gamePlayTime){
 
   $game_title = "DungeonPunks_RestoreFromCS"
-  $game_title_hub= "DungeonPunks_RestoreFromCS"
+  $game_title_hub= "Dungeon Punks Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
