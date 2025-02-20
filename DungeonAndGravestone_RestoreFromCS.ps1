@@ -1,7 +1,7 @@
 ﻿Function DungeonAndGravestone_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "DungeonAndGravestone_RestoreFromCS"
-  $game_title_hub= "Dungeon And Gravestone Restore From CS"
+  $game_title_hub= "DungeonAndGravestoneRestoreFromCS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
