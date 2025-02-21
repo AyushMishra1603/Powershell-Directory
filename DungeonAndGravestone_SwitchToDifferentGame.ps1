@@ -1,7 +1,7 @@
 ﻿Function DungeonAndGravestone_SwitchToDifferentGame($launchUsing,$gamePlayTime){
 
   $game_title = "DungeonAndGravestone_SwitchToDifferentGame"
-  $game_title_hub= "DungeonAndGravestoneSwitchToDifferentGame"
+  $game_title_hub= "Dungeon And Gravestone Switch To Different Game"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
