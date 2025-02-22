@@ -1,7 +1,7 @@
 ﻿Function DungeonPunks_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "DungeonPunks_SwitchToDifferentApp"
-  $game_title_hub= "DungeonPunks_SwitchToDifferentApp"
+  $game_title_hub= "Dungeon Punks Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
