@@ -3,7 +3,7 @@
 Function DungeonPunks($gamePlayTime, $launchUsing){
 
   $game_title = "DungeonPunks"
-  $game_title_hub = "Dungeon Punks"
+  $game_title_hub = "DungeonPunks"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
