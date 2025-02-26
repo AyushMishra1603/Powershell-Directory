@@ -1,7 +1,7 @@
 ﻿Function FarCry3_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "FarCry3_SwitchToDifferentApp"
-  $game_title_hub= "FarCry3_SwitchToDifferentApp"
+  $game_title_hub= "Far Cry3 Switch To Different App"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
