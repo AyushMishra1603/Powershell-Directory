@@ -2,7 +2,7 @@
 Function GameOfThronesE1_DataSync{
 
   $game_title = "GameOfThronesE1_DataSync"
-  $game_title_hub = "GameOfThronesE1_DataSync"
+  $game_title_hub = "Game Of Thrones E1 Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
