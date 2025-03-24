@@ -3,7 +3,7 @@
 Function DynastyWarriors8Empires($gamePlayTime, $launchUsing){
 
   $game_title = "DynastyWarriors8Empires"
-  $game_title_hub = "DynastyWarriors8Empires"
+  $game_title_hub = "Dynasty Warriors 8 Empires"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
