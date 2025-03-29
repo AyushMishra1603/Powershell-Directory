@@ -1,7 +1,7 @@
 ﻿Function DynastyWarriors8Empires_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "DynastyWarriors8Empires_RestoreFromCS"
-  $game_title_hub= "DynastyWarriors8Empires_RestoreFromCS"
+  $game_title_hub= "Dynasty Warriors 8Empires Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
