@@ -1,7 +1,7 @@
 ﻿Function DyingReborn_SwitchToDifferentApp($launchUsing, $gamePlayTime){
 
   $game_title = "DyingReborn_SwitchToDifferentApp"
-  $game_title_hub= "Dying Reborn Switch To Different App"
+  $game_title_hub= "DyingRebornSwitchToDifferentApp"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
