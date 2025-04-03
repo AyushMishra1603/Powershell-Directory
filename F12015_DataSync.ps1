@@ -2,7 +2,7 @@
 Function F12015_DataSync{
 
   $game_title = "F12015_DataSync"
-  $game_title_hub = "F12015 DataSync"
+  $game_title_hub = "F1 2015 Data Sync"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
