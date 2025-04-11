@@ -1,7 +1,7 @@
 ﻿Function DyingReborn_RestoreFromCS($launchUsing,$gamePlayTime){
 
   $game_title = "DyingReborn_RestoreFromCS"
-  $game_title_hub= "Dying Reborn Restore From CS"
+  $game_title_hub= "DyingRebornRestoreFromCS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
