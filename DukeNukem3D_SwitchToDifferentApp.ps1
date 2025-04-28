@@ -1,7 +1,7 @@
 ﻿Function DukeNukem3D_SwitchToDifferentApp($launchUsing,$gamePlayTime){
 
   $game_title = "DukeNukem3D_SwitchToDifferentApp"
-  $game_title_hub= "DukeNukem3DSwitchToDifferentApp"
+  $game_title_hub= "DukeNukem 3DSwitchToDifferentApp"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
   $tc_status = $false
