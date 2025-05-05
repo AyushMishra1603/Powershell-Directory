@@ -1,6 +1,6 @@
 ﻿Function FunTownMahjong_RestoreFromCS($launchUsing,$gamePlayTime){
 
-  $game_title = "FunTownMahjong_RestoreFromCS"
+  $game_title = "Fun Town Mahjong Restore From CS"
   $game_title_hub= "Fun Town Mahjong Restore From CS"
   $testDescriptionPass = ""
   $testDescriptionFail = ""  
